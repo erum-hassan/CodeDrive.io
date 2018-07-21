@@ -170,7 +170,7 @@ section h2 {
 header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
-  background-color: red;
+
 }
 
 header.masthead h1 {
@@ -347,7 +347,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #18BC9C !important;
+  background-color: #31F7AA !important;
 }
 
 .bg-secondary {
