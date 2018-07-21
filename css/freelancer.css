@@ -347,7 +347,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #81E5DC !important;
+  background-color: red !important;
 }
 
 .bg-secondary {
